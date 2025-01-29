@@ -6,7 +6,7 @@ To Install
 <p>python -m venv venv </p>
 
 On Windows 
->> <p>venv\scripts\activate </p>p?
+>> <p>venv\scripts\activate </p>
 
 <p>On Linux/Mac</p>
 <p>source venv/bin/activate</p>
